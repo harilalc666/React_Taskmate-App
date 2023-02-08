@@ -1,3 +1,3 @@
 # React_Taskmate-App
 # Visit website on given below link
-[TaskMate Web App](https://todomate.netlify.app/){:target="_blank"}
+<a href="https://todomate.netlify.app/" target="_blank" rel="noopener noreferrer">TaskMate Web App</a>
